@@ -1,0 +1,19 @@
+p {
+    color: blue;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.last-line {
+    text-align: right;
+}
+
+.body {
+    color: brown;
+}
+
+#red-part {
+    color: red;
+}
